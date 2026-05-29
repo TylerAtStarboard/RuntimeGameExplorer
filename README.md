@@ -18,5 +18,6 @@ https://github.com/user-attachments/assets/54ab3e51-2a4c-4b3c-b57f-ceb3444f212a
 
 # How to get 
 
-Download the .rbxm from the latest release
+Download the .rbxm from the latest release, and drop it into studio
 
+https://github.com/TylerAtStarboard/RuntimeGameExplorer/releases/tag/V4.0
