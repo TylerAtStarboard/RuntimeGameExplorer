@@ -226,3 +226,9 @@ RunService.Heartbeat:Connect(function()
     end
 end)
 ```
+
+Plant example:
+
+https://github.com/user-attachments/assets/494a6ba9-603d-48c2-8a98-2fbdecadc7de
+
+
