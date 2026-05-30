@@ -30,7 +30,7 @@ The hooks module is automatically moved to `ReplicatedStorage` at runtime. Requi
 local Hooks = require(game.ReplicatedStorage:WaitForChild("RuntimeExplorerHooks"))
 ```
 
-Client methods live under `Hooks.Client`, server methods live under `Hooks.Server`. Only the relevant side is populated at runtime, so autocomplete stays clean.
+Client methods live under `Hooks.Client`, server methods live under `Hooks.Server`. 
 
 A couple example scripts are included in the `ClientDevScripts` folder.
 
