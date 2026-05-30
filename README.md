@@ -18,7 +18,7 @@ https://github.com/user-attachments/assets/54ab3e51-2a4c-4b3c-b57f-ceb3444f212a
 
 Download the .rbxm from the latest release, and drop it into studio
 
-https://github.com/TylerAtStarboard/RuntimeGameExplorer/releases/tag/V4.1
+https://github.com/TylerAtStarboard/RuntimeGameExplorer/releases/tag/V4.2
 
 ---
 
@@ -232,3 +232,6 @@ Plant example:
 https://github.com/user-attachments/assets/494a6ba9-603d-48c2-8a98-2fbdecadc7de
 
 
+## V4.2
+
+Fixed respawn issue with the dev scripts
