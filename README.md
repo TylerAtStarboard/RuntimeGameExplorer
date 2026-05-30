@@ -150,8 +150,7 @@ Hooks.Server:SelectInstanceForAdmin(admin, workspace.SomePart, true) -- also ope
 - **Added hooks!** You can now programmatically open/toggle the tool with your own binds, respond to explorer instance selection, force explorer selection on an instance, and more
 - This should make it easier to work with this tool and bind it to your games
 - A couple example scripts are included
-- Open up the readme or view the github for more information
-
+  
 Some examples:
 
 ```lua
