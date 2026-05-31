@@ -6,7 +6,7 @@ It lets you view your entire game, see all properties, write properties, write c
 
 https://github.com/user-attachments/assets/54ab3e51-2a4c-4b3c-b57f-ceb3444f212a
 
-- Large instance trees with virtual scrolling(opening a 35,000 instance folder only causes about ~0.5 seconds of lag)
+- Large instance trees with virtual scrolling(opening and navigating a 35,000 instance folder is fast)
 - Simple context menu to cut, copy, paste, or delete instances
 - Simple selection behavior(LeftAlt to select parts, otherwise selects models), with simple transform tools
 - Real time output/dev console for reading the output of any client or the server , and writing code
