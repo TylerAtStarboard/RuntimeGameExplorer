@@ -234,3 +234,7 @@ https://github.com/user-attachments/assets/494a6ba9-603d-48c2-8a98-2fbdecadc7de
 ## V4.2
 
 Fixed respawn issue with the dev scripts
+
+## V4.3
+
+Added a toggle in the console(defaults to false) that lets you specify whether or not you want code to be printed in the output
